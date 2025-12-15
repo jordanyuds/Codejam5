@@ -8,6 +8,7 @@ namespace CodeJam5b.Server.Controllers
 {
     public class ProgressData
     {
+        // A suggestion could be to use an integer instead of a string for ID
         public string? Id { get; set; }
         
         [Range(0, 1000, ErrorMessage = "Current weight must be between 0 and 1000")]
@@ -44,6 +45,7 @@ namespace CodeJam5b.Server.Controllers
         public int Protein { get; set; }
     }
 
+    // I appreciate the clear separation of concerns in this controller 
     [ApiController]
     [Route("api/progress")]
     public class ProgressController : ControllerBase
@@ -95,6 +97,7 @@ namespace CodeJam5b.Server.Controllers
                 // Create new progress record
                 progress = new UserProgress
                 {
+                    // I liked the string ID approach here where it generates a new GUID
                     ProgressId = Guid.NewGuid().ToString(),
                     CurrentWeight = body.CurrentWeight,
                     TargetWeight = body.TargetWeight,

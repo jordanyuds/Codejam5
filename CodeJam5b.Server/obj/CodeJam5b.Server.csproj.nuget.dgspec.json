@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj": {}
+    "C:\\Users\\jmfhpca\\OneDrive - JM Family Enterprises\\Desktop\\Codejam5\\CodeJam5b.Server\\CodeJam5b.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj": {
+    "C:\\Users\\jmfhpca\\OneDrive - JM Family Enterprises\\Desktop\\Codejam5\\CodeJam5b.Server\\CodeJam5b.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
+        "projectUniqueName": "C:\\Users\\jmfhpca\\OneDrive - JM Family Enterprises\\Desktop\\Codejam5\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
         "projectName": "CodeJam5b.Server",
-        "projectPath": "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
-        "packagesPath": "C:\\Users\\jmfaryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\obj\\",
+        "projectPath": "C:\\Users\\jmfhpca\\OneDrive - JM Family Enterprises\\Desktop\\Codejam5\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
+        "packagesPath": "C:\\Users\\jmfhpca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmfhpca\\OneDrive - JM Family Enterprises\\Desktop\\Codejam5\\CodeJam5b.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jmfaryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmfhpca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
