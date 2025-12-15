@@ -16,7 +16,7 @@ namespace CodeJam5b.Server.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
+            // Very good organization of seed data into categories for clarity
             modelBuilder.Entity<Meal>().HasData(
                 // Breakfast Items
                 new Meal { MealId = "1", MealName = "Oatmeal with Berries", Calories = 280, Carbs = 48, Fat = 5, Protein = 10 },
