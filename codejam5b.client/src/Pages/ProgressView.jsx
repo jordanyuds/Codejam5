@@ -1,3 +1,9 @@
+/*
+Well structured component for displaying user progress stats.
+Good use of hooks for state management and side effects.
+Clear separation of loading, error, and data display states.
+*/
+
 import { useState, useEffect } from 'react';
 import './ProgressView.css';
 

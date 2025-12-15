@@ -2616,23 +2616,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jmfaryl\\.nuget\\packages\\": {},
+    "C:\\Users\\jmfrrud\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
+      "projectUniqueName": "C:\\Users\\jmfrrud\\source\\repos\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
       "projectName": "CodeJam5b.Server",
-      "projectPath": "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
-      "packagesPath": "C:\\Users\\jmfaryl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmfaryl\\Codejam5-1\\CodeJam5b.Server\\obj\\",
+      "projectPath": "C:\\Users\\jmfrrud\\source\\repos\\Codejam5-1\\CodeJam5b.Server\\CodeJam5b.Server.csproj",
+      "packagesPath": "C:\\Users\\jmfrrud\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmfrrud\\source\\repos\\Codejam5-1\\CodeJam5b.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jmfaryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmfrrud\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,4 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*
+Nice use of Entity Framework Core for data modeling.
+*/
+
+using Microsoft.EntityFrameworkCore;
 using CodeJam5b.Models;
 
 namespace CodeJam5b.Server.Data
