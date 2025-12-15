@@ -1,3 +1,7 @@
+/*
+Good use of .NET Core Web API conventions.
+*/
+
 using Microsoft.AspNetCore.Mvc;
 using CodeJam5b.Models;
 using CodeJam5b.Server.Data;

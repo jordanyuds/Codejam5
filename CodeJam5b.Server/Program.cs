@@ -1,3 +1,8 @@
+/*
+Overall well structured .NET Core Web API setup 
+with proper middleware configuration.
+*/
+
 using Microsoft.EntityFrameworkCore;
 using CodeJam5b.Server.Data;
 

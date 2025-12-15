@@ -1,3 +1,8 @@
+/*
+Overall well structured React app
+with clear separation of components.
+*/
+
 import { useEffect, useState } from 'react';
 import './App.css';
 import AddMeal from './Pages/AddMeal';

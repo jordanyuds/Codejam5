@@ -1,3 +1,9 @@
+/*
+Nice responsive grid layout for stats cards. The weight card with gradient background 
+stands out nicely.
+Good use of hover effects and transitions for interactivity
+*/
+
 .progress-view-container {
   max-width: 900px;
   margin: 2rem auto;

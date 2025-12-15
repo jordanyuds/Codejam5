@@ -1,3 +1,9 @@
+/*
+Nice 2 step submission process.
+First add meal to meals database, then update user progress with the meal's nutrients.
+Good error handling and user feedback.
+*/
+
 import { useState } from 'react';
 import './AddMeal.css';
 

@@ -1,3 +1,9 @@
+/*
+Clean and user friendly meal search interface.
+Good use of state management for search, loading, and error handling.
+Well structured layout for displaying search results with add functionality.
+*/
+
 import { useState } from 'react';
 import './SearchMeal.css';
 

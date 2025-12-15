@@ -1,3 +1,8 @@
+/*
+Well structured controller for managing user progress data.
+Good use of data validation and error handling.
+*/
+
 using Microsoft.AspNetCore.Mvc;
 using CodeJam5b.Models;
 using CodeJam5b.Server.Data;
